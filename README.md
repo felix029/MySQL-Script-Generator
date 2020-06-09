@@ -2,6 +2,7 @@
 Simple program that generates a MySQL script to insert values contained in a given .xlsx file.
 
 The xlsx file must follow this format:  -First row is the table columns names
+                                        
                                         -Other rows are the values to insert
 
 ## Setup
