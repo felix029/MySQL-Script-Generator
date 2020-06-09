@@ -15,7 +15,7 @@ pip install openpyxl
 | Option  | Description                                                          |
 | ------- | -------------------------------------------------------------------- |
 | --table | (Required) Give the name of the table you want to insert values into |
-| --path  | (Required) Path of the .xlsx file that contains the values to isnert |
+| --path  | (Required) Path of the .xlsx file that contains the values to insert |
 
 To run, simply call the main.py file with the two required options shown in the table above and the program will create a .sql script
 in the directory the main.py file is.
