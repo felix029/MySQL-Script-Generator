@@ -23,3 +23,6 @@ in the directory the main.py file is.
 main.py --table table_name --path exemple_spreadsheet.xlsx
 ```
 
+## Warning!
+
+Since this is a very simple program, there is no error verification.
